@@ -1,0 +1,161 @@
+Mission,Spacecraft,Launch Date,Carrier Rocket,Operator,Mission Type,Outcome,Additional Information
+Pioneer 1,Pioneer 1,01-Oct-66,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Luna 2,Luna 2,23-Jul-59,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Pioneer 3,Pioneer 3,09-Jan-64,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Luna 4,Luna 4,21-May-65,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Pioneer 5,Pioneer 5,10-Jul-71,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Luna 6,Luna 6,20-Jul-66,Luna,Soviet Union OKB-1,Impactor,Launch failure,Premature third-stage cutoff.
+Pioneer 7,Pioneer 7,12-Apr-68,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Pioneer 8,Pioneer 8,10-Feb-59,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Luna 9,Luna 9,22-Jun-62,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Pioneer 10,Pioneer 10,17-Jul-61,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Luna 11,Luna 11,02-Apr-59,Luna,Soviet Union OKB-1,Impactor,Partial failure,"Missed Moon, first object to reach heliocentric orbit."
+Pioneer 12,Pioneer 12,22-Apr-61,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Pioneer 13,Pioneer 13,13-Feb-70,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Luna 14,Luna 14,04-Jul-68,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Pioneer 15,Pioneer 15,07-Nov-67,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Luna 16,Luna 16,19-Aug-65,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Luna 17,Luna 17,16-Jan-59,Luna,Soviet Union OKB-1,Impactor,Launch failure,Premature third-stage cutoff.
+Pioneer 18,Pioneer 18,01-Dec-69,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Luna 19,Luna 19,26-Apr-66,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Luna 20,Luna 20,19-Aug-65,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Pioneer 21,Pioneer 21,07-Feb-63,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Pioneer 22,Pioneer 22,09-Feb-68,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Pioneer 23,Pioneer 23,18-Jan-66,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Luna 24,Luna 24,04-Jan-67,Luna,Soviet Union OKB-1,Impactor,Partial failure,"Missed Moon, first object to reach heliocentric orbit."
+Pioneer 25,Pioneer 25,17-Feb-71,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Luna 26,Luna 26,08-Sep-62,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Luna 27,Luna 27,15-Oct-69,Luna,Soviet Union OKB-1,Impactor,Partial failure,"Missed Moon, first object to reach heliocentric orbit."
+Luna 28,Luna 28,27-Nov-61,Luna,Soviet Union OKB-1,Impactor,Success,First human-made object to impact Moon.
+Pioneer 29,Pioneer 29,27-Dec-69,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Pioneer 30,Pioneer 30,24-Mar-72,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Pioneer 31,Pioneer 31,23-Jun-69,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Pioneer 32,Pioneer 32,20-Jun-63,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Luna 33,Luna 33,16-Jan-70,Luna,Soviet Union OKB-1,Impactor,Success,First human-made object to impact Moon.
+Luna 34,Luna 34,31-May-66,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Luna 35,Luna 35,24-Mar-61,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Pioneer 36,Pioneer 36,08-Jun-63,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Luna 37,Luna 37,23-Feb-68,Luna,Soviet Union OKB-1,Impactor,Launch failure,Premature third-stage cutoff.
+Pioneer 38,Pioneer 38,23-Apr-66,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Luna 39,Luna 39,30-Aug-65,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Pioneer 40,Pioneer 40,22-Jul-69,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Pioneer 41,Pioneer 41,24-Dec-58,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Pioneer 42,Pioneer 42,13-Nov-61,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Pioneer 43,Pioneer 43,04-Dec-70,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Luna 44,Luna 44,24-Oct-70,Luna,Soviet Union OKB-1,Impactor,Launch failure,Premature third-stage cutoff.
+Pioneer 45,Pioneer 45,22-Apr-69,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Pioneer 46,Pioneer 46,18-Apr-66,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Pioneer 47,Pioneer 47,22-Jun-68,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Luna 48,Luna 48,24-Jul-60,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Luna 49,Luna 49,23-Oct-61,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Pioneer 50,Pioneer 50,13-Jan-67,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Luna 51,Luna 51,13-Jun-67,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Pioneer 52,Pioneer 52,08-Dec-67,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Luna 53,Luna 53,26-Oct-63,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Pioneer 54,Pioneer 54,01-Jul-60,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Luna 55,Luna 55,18-Jul-70,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Pioneer 56,Pioneer 56,17-Dec-68,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Pioneer 57,Pioneer 57,01-Dec-70,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Pioneer 58,Pioneer 58,09-Sep-67,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Luna 59,Luna 59,23-May-70,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Pioneer 60,Pioneer 60,06-Feb-61,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Luna 61,Luna 61,28-Sep-63,Luna,Soviet Union OKB-1,Impactor,Partial failure,"Missed Moon, first object to reach heliocentric orbit."
+Luna 62,Luna 62,11-Nov-69,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Pioneer 63,Pioneer 63,01-Mar-67,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Luna 64,Luna 64,19-Jan-66,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Pioneer 65,Pioneer 65,29-Oct-63,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Luna 66,Luna 66,17-Apr-61,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Luna 67,Luna 67,24-Jul-71,Luna,Soviet Union OKB-1,Impactor,Partial failure,"Missed Moon, first object to reach heliocentric orbit."
+Luna 68,Luna 68,26-Jun-67,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Pioneer 69,Pioneer 69,20-Oct-62,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Luna 70,Luna 70,26-Sep-63,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Luna 71,Luna 71,11-Feb-68,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Luna 72,Luna 72,17-Sep-68,Luna,Soviet Union OKB-1,Impactor,Partial failure,"Missed Moon, first object to reach heliocentric orbit."
+Luna 73,Luna 73,05-Jul-65,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Pioneer 74,Pioneer 74,30-Sep-63,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Luna 75,Luna 75,28-Dec-64,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Luna 76,Luna 76,04-Oct-68,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Luna 77,Luna 77,20-Apr-62,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Luna 78,Luna 78,12-Apr-65,Luna,Soviet Union OKB-1,Impactor,Launch failure,Premature third-stage cutoff.
+Luna 79,Luna 79,02-Aug-65,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Pioneer 80,Pioneer 80,02-Sep-63,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Pioneer 81,Pioneer 81,22-Mar-68,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Luna 82,Luna 82,29-Mar-62,Luna,Soviet Union OKB-1,Impactor,Success,First human-made object to impact Moon.
+Luna 83,Luna 83,30-Oct-69,Luna,Soviet Union OKB-1,Impactor,Launch failure,Premature third-stage cutoff.
+Luna 84,Luna 84,13-Sep-64,Luna,Soviet Union OKB-1,Impactor,Success,First human-made object to impact Moon.
+Pioneer 85,Pioneer 85,26-Dec-70,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Luna 86,Luna 86,04-Nov-69,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Pioneer 87,Pioneer 87,24-Jun-67,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Pioneer 88,Pioneer 88,30-Oct-65,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Luna 89,Luna 89,24-May-71,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Luna 90,Luna 90,07-Dec-65,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Luna 91,Luna 91,23-Feb-62,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Pioneer 92,Pioneer 92,23-Oct-63,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Luna 93,Luna 93,22-Dec-67,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Pioneer 94,Pioneer 94,03-Mar-67,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Pioneer 95,Pioneer 95,16-Jul-59,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Luna 96,Luna 96,10-Jun-64,Luna,Soviet Union OKB-1,Impactor,Success,First human-made object to impact Moon.
+Pioneer 97,Pioneer 97,06-Sep-70,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Luna 98,Luna 98,30-May-64,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Luna 99,Luna 99,29-Oct-60,Luna,Soviet Union OKB-1,Impactor,Partial failure,"Missed Moon, first object to reach heliocentric orbit."
+Luna 100,Luna 100,08-Mar-72,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Luna 101,Luna 101,06-Jul-65,Luna,Soviet Union OKB-1,Impactor,Partial failure,"Missed Moon, first object to reach heliocentric orbit."
+Pioneer 102,Pioneer 102,13-Apr-61,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Pioneer 103,Pioneer 103,15-Feb-62,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Pioneer 104,Pioneer 104,13-Nov-66,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Pioneer 105,Pioneer 105,29-Apr-68,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Luna 106,Luna 106,03-Aug-68,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Luna 107,Luna 107,12-Feb-70,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Luna 108,Luna 108,19-Sep-65,Luna,Soviet Union OKB-1,Impactor,Partial failure,"Missed Moon, first object to reach heliocentric orbit."
+Luna 109,Luna 109,04-Apr-64,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Luna 110,Luna 110,07-Jul-66,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Pioneer 111,Pioneer 111,19-Oct-67,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Luna 112,Luna 112,21-Jan-63,Luna,Soviet Union OKB-1,Impactor,Success,First human-made object to impact Moon.
+Pioneer 113,Pioneer 113,16-Sep-67,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Luna 114,Luna 114,28-Sep-69,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Luna 115,Luna 115,15-Jun-68,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Pioneer 116,Pioneer 116,20-Mar-63,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Luna 117,Luna 117,09-Mar-61,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Pioneer 118,Pioneer 118,09-Sep-70,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Luna 119,Luna 119,30-Nov-65,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Luna 120,Luna 120,28-Jun-59,Luna,Soviet Union OKB-1,Impactor,Success,First human-made object to impact Moon.
+Luna 121,Luna 121,13-Aug-64,Luna,Soviet Union OKB-1,Impactor,Launch failure,Premature third-stage cutoff.
+Luna 122,Luna 122,15-Nov-69,Luna,Soviet Union OKB-1,Impactor,Success,First human-made object to impact Moon.
+Pioneer 123,Pioneer 123,02-Jun-66,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Pioneer 124,Pioneer 124,13-Nov-67,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Pioneer 125,Pioneer 125,26-Aug-67,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Luna 126,Luna 126,06-Jun-68,Luna,Soviet Union OKB-1,Impactor,Success,First human-made object to impact Moon.
+Pioneer 127,Pioneer 127,03-Dec-59,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Luna 128,Luna 128,30-Nov-71,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Luna 129,Luna 129,14-Oct-65,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Luna 130,Luna 130,04-Feb-64,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Pioneer 131,Pioneer 131,29-Apr-65,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Pioneer 132,Pioneer 132,26-Jun-67,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Luna 133,Luna 133,30-Dec-61,Luna,Soviet Union OKB-1,Impactor,Launch failure,Premature third-stage cutoff.
+Luna 134,Luna 134,21-Mar-61,Luna,Soviet Union OKB-1,Impactor,Success,First human-made object to impact Moon.
+Luna 135,Luna 135,28-Feb-70,Luna,Soviet Union OKB-1,Impactor,Success,First human-made object to impact Moon.
+Luna 136,Luna 136,08-Nov-71,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Pioneer 137,Pioneer 137,19-Jan-72,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Luna 138,Luna 138,06-Aug-60,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
+Luna 139,Luna 139,15-Aug-67,Luna,Soviet Union OKB-1,Impactor,Success,First human-made object to impact Moon.
+Luna 140,Luna 140,28-Nov-65,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Luna 141,Luna 141,26-Jul-59,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Pioneer 142,Pioneer 142,09-Jul-64,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Luna 143,Luna 143,13-Jun-70,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Luna 144,Luna 144,18-Mar-72,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Luna 145,Luna 145,03-Jul-61,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Luna 146,Luna 146,13-Feb-68,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Pioneer 147,Pioneer 147,06-Mar-67,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Third-stage separation failed.
+Pioneer 148,Pioneer 148,02-Feb-64,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Luna 149,Luna 149,15-Jul-70,Luna,Soviet Union OKB-1,Impactor,Success,First human-made object to impact Moon.
+Pioneer 150,Pioneer 150,18-Feb-68,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Luna 151,Luna 151,10-Nov-70,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegration midair.
+Pioneer 152,Pioneer 152,06-Jul-68,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Pioneer 153,Pioneer 153,27-Dec-63,Juno II,United States NASA,Flyby,Partial success,Missed Moon; entered solar orbit.
+Pioneer 154,Pioneer 154,07-Apr-64,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Pioneer 155,Pioneer 155,15-Jan-68,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Luna 156,Luna 156,25-May-68,Luna,Soviet Union OKB-1,Flyby,Success,First images of far side of Moon.
+Luna 157,Luna 157,18-Dec-61,Luna,Soviet Union OKB-1,Impactor,Partial failure,"Missed Moon, first object to reach heliocentric orbit."
+Pioneer 158,Pioneer 158,28-Jul-65,Thor DM-18 Able,United States USAF,Orbiter,Launch failure,Failed to orbit due to turbopump vibration.
+Pioneer 159,Pioneer 159,28-Dec-61,Thor DM-18 Able,United States NASA,Orbiter,Partial failure,Missed Moon; reentered Earth's atmosphere.
+Luna 160,Luna 160,02-Sep-60,Luna,Soviet Union OKB-1,Impactor,Launch failure,Rocket disintegrated due to vibration.
